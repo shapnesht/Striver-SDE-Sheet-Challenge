@@ -3,3 +3,4 @@
 Problem 1 :- set Matrix Zeros
 Problem 2 :- pascal triangle
 Problem 3 :- next permutation
+Problem 3 :- max Subarray Sum
