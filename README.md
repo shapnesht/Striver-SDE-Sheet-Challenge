@@ -9,3 +9,4 @@ Problem 6 :- stock - buy & sell
 
 problem 8 :- merge intervals
 problem 9 :- merge 2 sorted arrays
+problem 10 :- find duplicate
