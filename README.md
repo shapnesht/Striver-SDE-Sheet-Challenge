@@ -18,3 +18,4 @@ problem 15 :- majority element
 problem 16 :- majority element(n/3)
 problem 17 :- unique paths
 problem 18 :- reverse Pairs
+problem 19 :- pair Sum
