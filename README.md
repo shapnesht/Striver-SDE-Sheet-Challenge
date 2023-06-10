@@ -14,3 +14,4 @@ problem 11 :- find missing and duplicate
 problem 12 :- count Inversions
 problem 13 :- find target in 2D matrix
 problem 14 :- modular Exponentiation
+problem 15 :- majority element
