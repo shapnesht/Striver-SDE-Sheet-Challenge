@@ -1,26 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
-/****************************************************************
-
-    Following is the class structure of the LinkedListNode class:
-
-    template <typename T>
-    class LinkedListNode
+template <typename T>
+class LinkedListNode
+{
+public:
+    T data;
+    LinkedListNode<T> *next;
+    LinkedListNode(T data)
     {
-    public:
-        T data;
-        LinkedListNode<T> *next;
-        LinkedListNode(T data)
-        {
-            this->data = data;
-            this->next = NULL;
-        }
-    };
-
-*****************************************************************/
-
-LinkedListNode<int> *reverse(LinkedListNode<int> *curr) {
-    if(curr->next == NULL) return curr;
+        this->data = data;
+        this->next = NULL;
+    }
+};
+LinkedListNode<int> *reverse(LinkedListNode<int> *curr)
+{
+    if (curr->next == NULL)
+        return curr;
 
     LinkedListNode<int> *nextNode = curr->next;
     LinkedListNode<int> *head = reverse(nextNode);
@@ -28,13 +23,15 @@ LinkedListNode<int> *reverse(LinkedListNode<int> *curr) {
     return head;
 }
 
-LinkedListNode<int> *reverseLinkedList(LinkedListNode<int> *head) 
+LinkedListNode<int> *reverseLinkedList(LinkedListNode<int> *head)
 {
-    if(head == NULL || head->next == NULL) return head;
+    if (head == NULL || head->next == NULL)
+        return head;
 
     LinkedListNode<int> *prevNode = NULL, *currNode = head, *nextNode = head->next;
-    
-    while(nextNode != NULL) {
+
+    while (nextNode != NULL)
+    {
         currNode->next = prevNode;
         prevNode = currNode;
         currNode = nextNode;
