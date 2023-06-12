@@ -1,5 +1,5 @@
-/*
-Following is the class structure of the Node class:
+#include <bits/stdc++.h>
+using namespace std;
 
 class Node
 {
@@ -22,7 +22,6 @@ public:
         this->next = next;
     }
 };
-*/
 
 Node *findMiddle(Node *head) {
     Node* slow = head, *fast = head;
