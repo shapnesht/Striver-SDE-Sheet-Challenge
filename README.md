@@ -27,3 +27,4 @@ problem 24 :- longest Substring Without Repeat
 problem 25 :- reverse LinkedList
 problem 26 :- middle Of LinkedList
 problem 27 :- merge Sorted LinkedList
+problem 28 :- delete Kth from End
