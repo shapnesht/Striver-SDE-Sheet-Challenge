@@ -29,3 +29,4 @@ problem 26 :- middle Of LinkedList
 problem 27 :- merge Sorted LinkedList
 problem 28 :- delete Kth from End
 problem 29 :- add Two Numbers
+problem 30 :- delete given node
