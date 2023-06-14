@@ -22,7 +22,7 @@ public:
     }
 };
 
-int findIntersection(Node *firstHead, Node *secondHead)
+Node* findIntersection(Node *firstHead, Node *secondHead)
 {
     Node *d1 = firstHead;
     Node *d2 = secondHead;
