@@ -6,7 +6,7 @@
 - Problem 4 :- max Subarray Sum
 - Problem 5 :- sort 0,1,2
 - Problem 6 :- stock - buy & sell
-- 
+-
 - problem 8 :- merge intervals
 - problem 9 :- merge 2 sorted arrays
 - problem 10 :- find duplicate
@@ -30,3 +30,4 @@
 - problem 28 :- delete Kth from End
 - problem 29 :- add Two Numbers
 - problem 30 :- delete given node
+- problem 31 :- find Intersection of Y list
