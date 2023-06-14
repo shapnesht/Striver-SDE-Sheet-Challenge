@@ -31,3 +31,4 @@
 - problem 29 :- add Two Numbers
 - problem 30 :- delete given node
 - problem 31 :- find Intersection of Y list
+- problem 32 :- detect Cycle in LL
