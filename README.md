@@ -34,4 +34,4 @@
 - problem 32 :- detect Cycle in LL
 
 - problem 34 :- detect Palindrome in LL
-- problem 34 :- find Beginning of Cycle in LL
+- problem 35 :- find Beginning of Cycle in LL
