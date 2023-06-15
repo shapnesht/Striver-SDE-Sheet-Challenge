@@ -35,3 +35,4 @@
 
 - problem 34 :- detect Palindrome in LL
 - problem 35 :- find Beginning of Cycle in LL
+- problem 36 :- flatten a LL
