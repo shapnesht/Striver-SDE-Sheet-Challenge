@@ -32,3 +32,5 @@
 - problem 30 :- delete given node
 - problem 31 :- find Intersection of Y list
 - problem 32 :- detect Cycle in LL
+
+- problem 34 :- detect Palindrome in LL
