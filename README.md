@@ -32,7 +32,7 @@
 - problem 30 :- delete given node
 - problem 31 :- find Intersection of Y list
 - problem 32 :- detect Cycle in LL
-
+- problem 33 :- reverse Nodes in K Group
 - problem 34 :- detect Palindrome in LL
 - problem 35 :- find Beginning of Cycle in LL
 - problem 36 :- flatten a LL
