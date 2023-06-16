@@ -40,3 +40,4 @@
 - problem 38 :- copy List With Random Pointer
 - problem 39 :- three Sum
 - problem 40 :- trapped Rainwater
+- problem 41 :- remove Duplicates
