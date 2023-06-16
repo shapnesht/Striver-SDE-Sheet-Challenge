@@ -37,3 +37,4 @@
 - problem 35 :- find Beginning of Cycle in LL
 - problem 36 :- flatten a LL
 - problem 37 :- rotate a LL
+- problem 38 :- copy List With Random Pointer
