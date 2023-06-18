@@ -47,3 +47,4 @@
 - problem 45 :- job Sequencing
 - problem 46 :- fractional Knapsack
 - problem 47 :- minimum Coins
+- problem 48 :- maximum Activities
