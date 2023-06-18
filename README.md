@@ -44,3 +44,4 @@
 - problem 42 :- max Consecutive Ones
 - problem 43 :- max Meetings
 - problem 44 :- max Platforms
+- problem 45 :- job Sequencing
