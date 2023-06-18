@@ -46,3 +46,4 @@
 - problem 44 :- max Platforms
 - problem 45 :- job Sequencing
 - problem 46 :- fractional Knapsack
+- problem 47 :- minimum Coins
