@@ -41,3 +41,4 @@
 - problem 39 :- three Sum
 - problem 40 :- trapped Rainwater
 - problem 41 :- remove Duplicates
+- problem 42 :- max Consecutive Ones
