@@ -45,3 +45,4 @@
 - problem 43 :- max Meetings
 - problem 44 :- max Platforms
 - problem 45 :- job Sequencing
+- problem 46 :- fractional Knapsack
