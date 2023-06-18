@@ -43,3 +43,4 @@
 - problem 41 :- remove Duplicates
 - problem 42 :- max Consecutive Ones
 - problem 43 :- max Meetings
+- problem 44 :- max Platforms
