@@ -48,3 +48,4 @@
 - problem 46 :- fractional Knapsack
 - problem 47 :- minimum Coins
 - problem 48 :- maximum Activities
+- problem 49 :- subset Sum
