@@ -50,3 +50,4 @@
 - problem 48 :- maximum Activities
 - problem 49 :- subset Sum
 - problem 50 :- subset Sum II
+- problem 51 :- subset Sum to K
