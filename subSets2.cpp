@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+using namespace std;
 
 void f(int indx, vector<int> &arr, vector<int> &tmp, vector<vector<int>> &ans)
 {
