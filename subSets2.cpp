@@ -1,29 +1,24 @@
 #include <bits/stdc++.h>
-using namespace std;
 
-void f(int indx, vector<int> &arr, vector<int> &tmp, set<vector<int>> &s)
+void f(int indx, vector<int> &arr, vector<int> &tmp, vector<vector<int>> &ans)
 {
-    if (indx == arr.size())
+    ans.push_back(tmp);
+    int n = arr.size();
+    for (int i = indx; i < n; i++)
     {
-        s.insert(tmp);
-        return;
+        if (i != indx && arr[i] == arr[i - 1])
+            continue;
+        tmp.push_back(arr[i]);
+        f(i + 1, arr, tmp, ans);
+        tmp.pop_back();
     }
-
-    f(indx + 1, arr, tmp, s);
-    tmp.push_back(arr[indx]);
-    f(indx + 1, arr, tmp, s);
-    tmp.pop_back();
 }
 
 vector<vector<int>> uniqueSubsets(int n, vector<int> &arr)
 {
     sort(arr.begin(), arr.end());
-    vector<int> tmp;
-    set<vector<int>> s;
-    f(0, arr, tmp, s);
     vector<vector<int>> ans;
-    for (auto it : s)
-        ans.push_back(it);
-
+    vector<int> tmp;
+    f(0, arr, tmp, ans);
     return ans;
 }
