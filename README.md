@@ -56,3 +56,4 @@
 - problem 54 :- obtain Kth Permutation
 - problem 55 :- obtain All Permutations
 - problem 56 :- N Queen
+- problem 57 :- valid Sudoku
