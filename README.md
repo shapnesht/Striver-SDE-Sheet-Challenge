@@ -57,3 +57,5 @@
 - problem 55 :- obtain All Permutations
 - problem 56 :- N Queen
 - problem 57 :- valid Sudoku
+
+- problem 59 :- rat In Maze
