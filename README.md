@@ -55,3 +55,4 @@
 - problem 53 :- palindrome Partitioning
 - problem 54 :- obtain Kth Permutation
 - problem 55 :- obtain All Permutations
+- problem 55 :- N Queen
