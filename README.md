@@ -65,3 +65,5 @@
 - problem 63 :- single Element Sorted Array
 - problem 64 :- search In Rotated Sorted Array
 - problem 65 :- median Of Two Sorted Array
+
+- problem 67 :- allocate Pages
