@@ -67,3 +67,4 @@
 - problem 65 :- median Of Two Sorted Array
 - problem 66 :- kTh Element In Two Sorted Array
 - problem 67 :- allocate Pages
+- problem 68 :- chess Tournament
