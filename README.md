@@ -70,3 +70,4 @@
 - problem 68 :- chess Tournament
 
 - problem 70 :- kTh Largest And Smallest
+- problem 71 :- k Largest Sums PQ
