@@ -71,3 +71,5 @@
 - problem 69 :- implement Min Heap
 - problem 70 :- kTh Largest And Smallest
 - problem 71 :- k Largest Sums PQ
+
+- problem 73 :- merge k Sorted Arrays
