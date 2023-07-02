@@ -73,3 +73,4 @@
 - problem 71 :- k Largest Sums PQ
 
 - problem 73 :- merge k Sorted Arrays
+- problem 74 :- k Frequent Elements
