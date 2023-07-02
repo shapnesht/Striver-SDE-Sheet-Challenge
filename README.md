@@ -79,3 +79,6 @@
 
 
 - problem 79 :- power Set
+
+
+- problem 82 :- implement Stack
