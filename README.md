@@ -77,7 +77,7 @@
 - problem 75 :- implement Trie
 - problem 76 :- implement Trie II
 - problem 77 :- complete String
-
+- problem 78 :- distinct Substrings
 - problem 79 :- power Set
 
 
