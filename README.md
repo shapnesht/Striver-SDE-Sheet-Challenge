@@ -74,6 +74,7 @@
 - problem 72 :- running Median
 - problem 73 :- merge k Sorted Arrays
 - problem 74 :- k Frequent Elements
+- problem 75 :- implement Trie
 
 
 
