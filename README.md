@@ -80,7 +80,7 @@
 - problem 78 :- distinct Substrings
 - problem 79 :- power Set
 - problem 80 :- max Xor Of 2 Numbers
-
+- problem 81 :- maximum XOR Of Element From Array
 - problem 82 :- implement Stack
 - problem 83 :- implement Queue
 - problem 84 :- implement Stack Using Queue
