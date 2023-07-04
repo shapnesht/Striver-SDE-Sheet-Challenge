@@ -84,3 +84,4 @@
 - problem 82 :- implement Stack
 - problem 83 :- implement Queue
 - problem 84 :- implement Stack Using Queue
+- problem 85 :- implement Queue Using Stack
