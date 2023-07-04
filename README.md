@@ -88,3 +88,4 @@
 - problem 86 :- valid Parenthesis
 - problem 87 :- next Greater Element
 - problem 88 :- sort Stack
+- problem 89 :- next Smaller Element
