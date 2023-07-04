@@ -86,3 +86,4 @@
 - problem 84 :- implement Stack Using Queue
 - problem 85 :- implement Queue Using Stack
 - problem 86 :- valid Parenthesis
+- problem 87 :- next Greater Element
