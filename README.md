@@ -90,3 +90,4 @@
 - problem 88 :- sort Stack
 - problem 89 :- next Smaller Element
 - problem 90 :- LRU Cache
+- problem 91 :- LFU Cache
