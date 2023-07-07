@@ -94,3 +94,5 @@
 - problem 92 :- largest Area Histogram
 - problem 93 :- maximum In Sliding Window
 - problem 94 :- rotting Oranges
+
+- problem 96 :- online Stock Span
