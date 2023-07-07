@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+using namespace std;
+
 vector<int> slidingWindowMaximum(vector<int> &nums, int &k)
 {
     vector<int> ans;
