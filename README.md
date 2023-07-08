@@ -99,3 +99,4 @@
 
 - problem 98 :- celebrity Problem
 - problem 99 :- reverse Word in Strings
+- problem 100 :- longest Palindromic Substring
