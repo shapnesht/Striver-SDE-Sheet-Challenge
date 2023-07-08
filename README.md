@@ -96,3 +96,5 @@
 - problem 94 :- rotting Oranges
 - problem 95 :- min Stack
 - problem 96 :- online Stock Span
+
+- problem 98 :- celebrity Problem
