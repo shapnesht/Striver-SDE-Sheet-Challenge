@@ -96,7 +96,7 @@
 - problem 94 :- rotting Oranges
 - problem 95 :- min Stack
 - problem 96 :- online Stock Span
-
+- problem 97 :- Maximum of minimum for every window
 - problem 98 :- celebrity Problem
 - problem 99 :- reverse Word in Strings
 - problem 100 :- longest Palindromic Substring
