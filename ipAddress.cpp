@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+using namespace std;
+
 int compareVersions(string a, string b)
 {
     int n = a.size();
