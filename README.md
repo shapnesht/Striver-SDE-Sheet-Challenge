@@ -111,3 +111,4 @@
 - problem 109 :- count And Say
 - problem 110 :- compare IP
 - problem 111 :- inOrder Traversal
+- problem 112 :- preOrder Traversal
