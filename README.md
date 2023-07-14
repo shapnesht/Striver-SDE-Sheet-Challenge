@@ -125,3 +125,4 @@
 - problem 123 :- is Height Balanced?
 - problem 124 :- lowest Common Ancestor
 - problem 125 :- check Identical Trees
+- problem 126 :- zigZag Traversal Tree
