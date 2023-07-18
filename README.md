@@ -130,3 +130,4 @@
 - problem 128 :- maximum Path Sum
 - problem 129 :- tree from Pre and Inorder
 - problem 130 :- symmetric Tree
+- problem 131 :- tree from Post and Inorder
