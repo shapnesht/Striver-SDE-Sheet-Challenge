@@ -142,3 +142,4 @@
 - problem 140 :- predecessor successor BST
 - problem 141 :- floor BST
 - problem 142 :- ceil BST
+- problem 143 :- kTh Smallest BST
