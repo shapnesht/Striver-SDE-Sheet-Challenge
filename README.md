@@ -141,3 +141,4 @@
 - problem 139 :- LCA of BST
 - problem 140 :- predecessor successor BST
 - problem 141 :- floor BST
+- problem 142 :- ceil BST
